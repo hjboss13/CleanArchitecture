@@ -1269,7 +1269,10 @@
       },
       "CleanArq.Domain/1.0.0": {
         "runtime": {
-          "CleanArq.Domain.dll": {}
+          "CleanArq.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

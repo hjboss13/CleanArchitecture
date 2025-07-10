@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "CleanArq.Api.Controllers.RomaController",
+    "Method": "GetCategories",
+    "RelativePath": "api/roma/GetCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "build",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArq.Api.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/user/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CleanArq.Application.DataBase.User.Commands.CreateUser.CreateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArq.Api.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/user/DeleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArq.Api.Controllers.UserController",
+    "Method": "GetAllUser",
+    "RelativePath": "api/user/GetAllUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArq.Api.Controllers.UserController",
+    "Method": "GetByIdUser",
+    "RelativePath": "api/user/GetByIdUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArq.Api.Controllers.UserController",
+    "Method": "LoginUser",
+    "RelativePath": "api/user/LoginUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CleanArq.Application.DataBase.User.Queries.LoginUser.LoginUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArq.Api.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/user/UpdateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CleanArq.Application.DataBase.User.Commands.UpdateUser.UpdateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

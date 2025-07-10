@@ -9,3 +9,15 @@ D:\Systems\vsNet\CleanArq\src\CleanArq.Domain\obj\Debug\net8.0\CleanArq.Domain.d
 D:\Systems\vsNet\CleanArq\src\CleanArq.Domain\obj\Debug\net8.0\refint\CleanArq.Domain.dll
 D:\Systems\vsNet\CleanArq\src\CleanArq.Domain\obj\Debug\net8.0\CleanArq.Domain.pdb
 D:\Systems\vsNet\CleanArq\src\CleanArq.Domain\obj\Debug\net8.0\ref\CleanArq.Domain.dll
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\bin\Debug\net8.0\CleanArq.Domain.deps.json
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\bin\Debug\net8.0\CleanArq.Domain.dll
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\bin\Debug\net8.0\CleanArq.Domain.pdb
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\obj\Debug\net8.0\CleanArq.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\obj\Debug\net8.0\CleanArq.Domain.AssemblyInfoInputs.cache
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\obj\Debug\net8.0\CleanArq.Domain.AssemblyInfo.cs
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\obj\Debug\net8.0\CleanArq.Domain.csproj.CoreCompileInputs.cache
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\obj\Debug\net8.0\CleanArq.Domain.sourcelink.json
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\obj\Debug\net8.0\CleanArq.Domain.dll
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\obj\Debug\net8.0\refint\CleanArq.Domain.dll
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\obj\Debug\net8.0\CleanArq.Domain.pdb
+D:\Systems\vsNet\CleanArchitecture\src\CleanArq.Domain\obj\Debug\net8.0\ref\CleanArq.Domain.dll
