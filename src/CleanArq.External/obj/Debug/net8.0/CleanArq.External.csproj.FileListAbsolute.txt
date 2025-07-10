@@ -1,0 +1,17 @@
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\bin\Debug\net8.0\CleanArq.External.deps.json
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\bin\Debug\net8.0\CleanArq.External.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\bin\Debug\net8.0\CleanArq.External.pdb
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\CleanArq.External.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\CleanArq.External.AssemblyInfoInputs.cache
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\CleanArq.External.AssemblyInfo.cs
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\CleanArq.External.csproj.CoreCompileInputs.cache
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\CleanArq.External.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\refint\CleanArq.External.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\CleanArq.External.pdb
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\ref\CleanArq.External.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\CleanArq.External.csproj.AssemblyReference.cache
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\bin\Debug\net8.0\CleanArq.Application.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\bin\Debug\net8.0\CleanArq.Domain.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\bin\Debug\net8.0\CleanArq.Application.pdb
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\bin\Debug\net8.0\CleanArq.Domain.pdb
+D:\Systems\vsNet\CleanArq\src\CleanArq.External\obj\Debug\net8.0\CleanArq.77A4C25B.Up2Date

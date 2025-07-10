@@ -1,0 +1,12 @@
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\bin\Debug\net8.0\CleanArq.Common.deps.json
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\bin\Debug\net8.0\CleanArq.Common.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\bin\Debug\net8.0\CleanArq.Common.pdb
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\obj\Debug\net8.0\CleanArq.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\obj\Debug\net8.0\CleanArq.Common.AssemblyInfoInputs.cache
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\obj\Debug\net8.0\CleanArq.Common.AssemblyInfo.cs
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\obj\Debug\net8.0\CleanArq.Common.csproj.CoreCompileInputs.cache
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\obj\Debug\net8.0\CleanArq.Common.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\obj\Debug\net8.0\refint\CleanArq.Common.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\obj\Debug\net8.0\CleanArq.Common.pdb
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\obj\Debug\net8.0\ref\CleanArq.Common.dll
+D:\Systems\vsNet\CleanArq\src\CleanArq.Common\obj\Debug\net8.0\CleanArq.Common.csproj.AssemblyReference.cache
